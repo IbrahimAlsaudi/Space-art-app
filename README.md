@@ -13,7 +13,7 @@ The Paintings Gallery App is a beautiful and intuitive Android application built
 
 
 ## Screenshots
-<img src="ScreenShots/lighttheme.png" width=600 height=900>
+<img src="ScreenShots/lighttheme.png" width=500 height=1000>
 ![Screenshot 1](ScreenShots/lighttheme.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 ![Screenshot 3](screenshots/screenshot3.png)
