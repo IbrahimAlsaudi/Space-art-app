@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="burning_windmill">Burning windmill</string>
+    <string name="johan_christian">Johan Cristian</string>
+    <string name="burning_windmill_date">1856</string>
+    <string name="starry_night">Starry night</string>
+    <string name="van_gogh">Van Gogh</string>
+    <string name="starry_night_date">1856</string>
+    <string name="the_hay_wain">The hay wain</string>
+    <string name="john_constable">John Constable</string>
+    <string name="the_hay_wain_date">1856</string>
+    <string name="ninth_wave">The ninth wave</string>
+    <string name="ivan_aivazovsky">Ivan Aivazovsky</string>
+    <string name="ninth_wave_date">1850</string>
+    <string name="the_scream">The Scream</string>
+    <string name="edvard_munch">Edvard Munch</string>
+    <string name="the_scream_date">1893</string>
+    <string name="ship_wreck">The shipwreck</string>
+    <string name="claude_joseph">Claude Joseph</string>
+    <string name="ship_wreck_date">1772</string>
+    <string name="wanderer_above_the_sea">Wanderer above the sea</string>
+    <string name="caspar_david">Caspar David</string>
+    <string name="wanderer_above_the_sea_date">1772</string>
+    <string name="watching_the_breakers">Watching the breakers</string>
+    <string name="winslow_homer">Winslow Homer</string>
+    <string name="watching_the_breakers_date">1891</string>
+
+</resources>
