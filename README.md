@@ -1,7 +1,8 @@
 # Space Art App
 
 
-The Paintings Gallery App is a beautiful and intuitive Android application built with Kotlin using Jetpack Compose. It serves as a digital gallery for showcasing paintings along with their titles and dates, providing users with a delightful experience of exploring various artworks.
+The Space Art App is a beautiful and intuitive Android application built with Kotlin using Jetpack Compose. It serves as a digital gallery for showcasing paintings along with their titles and dates, providing users with a delightful experience of exploring various artworks.
+
 
 ## Features
 
@@ -9,14 +10,18 @@ The Paintings Gallery App is a beautiful and intuitive Android application built
 
 - **Dynamic Layouts with Jetpack Compose**: Leveraging the power of Jetpack Compose, the app features dynamic and responsive layouts, ensuring an optimal viewing experience across different devices.
 
-- **Paintings Showcase**: Browse through a collection of paintings, each accompanied by its title and date of creation, providing users with informative insights into the artwork.
+- **Dark Theme Support**: Offering a visually pleasing experience while reducing eye strain in low-light environments.
+
 
 
 ## Screenshots
+
+### Dark theme
+<img src="ScreenShots/darktheme.png" width=500 height=1000>
+
+### Light theme
 <img src="ScreenShots/lighttheme.png" width=500 height=1000>
-![Screenshot 1](ScreenShots/lighttheme.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+
 
 ## Getting Started
 
